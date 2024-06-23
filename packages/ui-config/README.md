@@ -1,10 +1,6 @@
 # @gauzy/ui-config
 
-This library was generated with [Nx](https://nx.dev).
-
-# Description
-
-A configuration library for the Gauzy framework, providing environment settings and configurations to be shared across various Angular applications within the Gauzy ecosystem.
+A configuration library for the i4net framework, providing environment settings and configurations to be shared across various Angular applications within the i4net ecosystem.
 
 ## Table of Contents
 
