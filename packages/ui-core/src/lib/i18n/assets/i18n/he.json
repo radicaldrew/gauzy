@@ -1203,10 +1203,10 @@
 		}
 	},
 	"INTEGRATIONS": {
-		"TITLE": "Integrations",
-		"AVAILABLE_INTEGRATIONS": "Available Apps & Integrations",
-		"ADDED_UPWORK_TRANSACTION": "Added Upwork Transaction",
-		"TOTAL_UPWORK_TRANSACTIONS_SUCCEED": "Total expense transactions succeed: {{ totalExpenses }}. Total income transactions succeed: {{ totalIncomes }}",
+		"TITLE": "אינטגרציות",
+		"AVAILABLE_INTEGRATIONS": "אפליקציות ואינטגרציות זמינות",
+		"ADDED_UPWORK_TRANSACTION": "נוספה עסקת Upwork",
+		"TOTAL_UPWORK_TRANSACTIONS_SUCCEED": "סך כל העסקאות שהצליחו: {{ totalExpenses }} הוצאות, {{ totalIncomes }} הכנסות",
 		"HUBSTAFF_PAGE": {
 			"NAME": "Hubstaff",
 			"SELECT_ORGANIZATION": "Select Organization",
@@ -1236,7 +1236,7 @@
 			"DATE_RANGE_PLACEHOLDER": "Choose date between",
 			"HOURLY": "Hourly"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"TITLE": "i4net AI Integration",
 			"API_KEY": "i4net AI key",
 			"API_SECRET": "i4net AI Secret",

@@ -803,7 +803,7 @@
 		"POSITIONS": "الوظائف",
 		"INTEGRATIONS": "التطبيقات والتكاملات",
 		"UPWORK": "أبوورك",
-		"i4net_AI": "جوزي الذكاء الاصطناعي",
+		"I4NET_AI": "جوزي الذكاء الاصطناعي",
 		"PROPOSALS": "مقترحات",
 		"TIME_OFF": "وقت مرتاح",
 		"APPROVALS": "الموافقات",
@@ -1209,7 +1209,7 @@
 			"DATE_RANGE_PLACEHOLDER": "اختر تاريخًا بين",
 			"HOURLY": "بالساعة"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"API_KEY": "مفتاح i4net AI",
 			"API_SECRET": "i4net AI سري"
 		},

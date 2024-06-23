@@ -43,7 +43,7 @@ export class IntegrationAIMiddleware implements NestMiddleware {
 			if (isNotEmpty(tenantId) && isNotEmpty(organizationId)) {
 				console.log(`Getting i4net AI integration settings from Cache for tenantId: ${tenantId}, organizationId: ${organizationId}`);
 
-				const cacheKey = `integrationTenantSettings_${tenantId}_${organizationId}_${IntegrationEnum.i4net_AI}`;
+				const cacheKey = `integrationTenantSettings_${tenantId}_${organizationId}_${IntegrationEnum.I4NET_AI}`;
 
 				// Fetch integration settings from the service
 				let integrationTenantSettings: IIntegrationSetting[] = await this.cacheManager.get(cacheKey);
@@ -54,7 +54,7 @@ export class IntegrationAIMiddleware implements NestMiddleware {
 					const fromDb = await this._integrationTenantService.getIntegrationTenantSettings({
 						tenantId,
 						organizationId,
-						name: IntegrationEnum.i4net_AI
+						name: IntegrationEnum.I4NET_AI
 					});
 
 					if (fromDb && fromDb.settings) {

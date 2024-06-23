@@ -5,7 +5,7 @@ import { i4netAIService } from './gauzy-ai.service';
 import gauzyAI from './config/gauzy-ai';
 import { IConfigurationOptions } from './configuration.interface';
 import { RequestConfigProvider } from './request-config.provider';
-import { i4net_AI_CONFIG_OPTIONS } from './constants';
+import { I4NET_AI_CONFIG_OPTIONS } from './constants';
 
 @Module({
 	imports: [
@@ -49,7 +49,7 @@ export class i4netAIModule {
 			],
 			providers: [
 				{
-					provide: i4net_AI_CONFIG_OPTIONS,
+					provide: I4NET_AI_CONFIG_OPTIONS,
 					useFactory: (config: ConfigService): IConfigurationOptions => ({
 						apiKey: config.get<string>('guazyAI.gauzyAiApiKey'),
 						apiSecret: config.get<string>('guazyAI.gauzyAiApiSecret'),
@@ -59,7 +59,7 @@ export class i4netAIModule {
 				},
 			],
 			exports: [
-				i4net_AI_CONFIG_OPTIONS
+				I4NET_AI_CONFIG_OPTIONS
 			],
 		};
 	}

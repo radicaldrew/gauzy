@@ -40,7 +40,7 @@ export class IntegrationAIService {
 			// Retrieve i4net AI integration from the database
 			const integration = await this._integrationService.findOneByOptions({
 				where: {
-					provider: IntegrationEnum.i4net_AI,
+					provider: IntegrationEnum.I4NET_AI,
 					isActive: true,
 					isArchived: false
 				}
@@ -57,15 +57,15 @@ export class IntegrationAIService {
 			const createdIntegration: IIntegrationTenant = await this._commandBus.execute(
 				new IntegrationTenantUpdateOrCreateCommand(
 					{
-						name: IntegrationEnum.i4net_AI,
+						name: IntegrationEnum.I4NET_AI,
 						integration: {
-							provider: IntegrationEnum.i4net_AI
+							provider: IntegrationEnum.I4NET_AI
 						},
 						tenantId,
 						organizationId,
 					},
 					{
-						name: IntegrationEnum.i4net_AI,
+						name: IntegrationEnum.I4NET_AI,
 						integration,
 						organizationId,
 						tenantId,

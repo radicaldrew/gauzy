@@ -53,8 +53,8 @@ export const DEFAULT_AI_INTEGRATIONS = [
             IntegrationTypeEnum.ALL_INTEGRATIONS
         ],
         order: 3,
-        redirectUrl: sluggable(IntegrationEnum.i4net_AI),
-        provider: IntegrationEnum.i4net_AI
+        redirectUrl: sluggable(IntegrationEnum.I4NET_AI),
+        provider: IntegrationEnum.I4NET_AI
     },
 ];
 

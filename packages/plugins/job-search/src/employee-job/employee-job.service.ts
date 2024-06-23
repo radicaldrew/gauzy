@@ -93,7 +93,7 @@ export class EmployeeJobPostService {
 				const integration = await this._integrationTenantService.getIntegrationByOptions({
 					organizationId,
 					tenantId,
-					name: IntegrationEnum.i4net_AI
+					name: IntegrationEnum.I4NET_AI
 				});
 
 				// Check if integration exists

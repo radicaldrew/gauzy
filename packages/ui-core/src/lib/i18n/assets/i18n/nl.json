@@ -803,7 +803,7 @@
 		"POSITIONS": "Functies",
 		"INTEGRATIONS": "Apps & Integraties",
 		"UPWORK": "Upwork",
-		"i4net_AI": "i4net AI",
+		"I4NET_AI": "i4net AI",
 		"PROPOSALS": "Voorstellen",
 		"TIME_OFF": "Vrije tijd",
 		"APPROVALS": "Goedkeuringen",
@@ -1209,7 +1209,7 @@
 			"DATE_RANGE_PLACEHOLDER": "Kies een datum tussen",
 			"HOURLY": "Per uur"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"API_KEY": "i4net AI-sleutel",
 			"API_SECRET": "i4net AI Geheim"
 		},

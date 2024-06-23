@@ -804,7 +804,7 @@
 		"POSITIONS": "Postes",
 		"INTEGRATIONS": "Applications et intégrations",
 		"UPWORK": "Upwork",
-		"i4net_AI": "i4net AI",
+		"I4NET_AI": "i4net AI",
 		"PROPOSALS": "Propositions",
 		"TIME_OFF": "Congé",
 		"APPROVALS": "Approbations",
@@ -1210,7 +1210,7 @@
 			"DATE_RANGE_PLACEHOLDER": "Choisissez une date entre",
 			"HOURLY": "Horaire"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"API_KEY": "Clé i4net AI",
 			"API_SECRET": "i4net AI Secret"
 		},

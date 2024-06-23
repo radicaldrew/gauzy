@@ -803,7 +803,7 @@
 		"POSITIONS": "Posições",
 		"INTEGRATIONS": "Aplicativos e Integrações",
 		"UPWORK": "Upwork",
-		"i4net_AI": "i4net AI",
+		"I4NET_AI": "i4net AI",
 		"PROPOSALS": "Propostas",
 		"TIME_OFF": "Tempo livre",
 		"APPROVALS": "Aprovações",
@@ -1209,7 +1209,7 @@
 			"DATE_RANGE_PLACEHOLDER": "Escolha uma data entre",
 			"HOURLY": "Por hora"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"API_KEY": "Chave de IA i4net",
 			"API_SECRET": "i4net AI Secret: i4net AI Secret é uma tecnologia avançada e revolucionária que combina inteligência artificial com recursos intuitivos. Essa solução inovadora oferece segurança e privacidade máxima, permitindo que os usuários protejam seus dados confidenciais de hackers e outras ameaças. Com o i4net AI Secret, é possível ter tranquilidade ao realizar qualquer tipo de comunicação ou transação online."
 		},

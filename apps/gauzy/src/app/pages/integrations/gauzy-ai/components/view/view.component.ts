@@ -186,7 +186,7 @@ export class i4netAIViewComponent extends TranslationBaseComponent implements On
 
 					// Display a success toast message using the _toastrService.
 					if (messageKey) {
-						successMessageKey = `INTEGRATIONS.i4net_AI_PAGE.MESSAGE.${messageKey}_${sync ? 'ENABLED' : 'DISABLED'
+						successMessageKey = `INTEGRATIONS.I4NET_AI_PAGE.MESSAGE.${messageKey}_${sync ? 'ENABLED' : 'DISABLED'
 							}`;
 						this._toastrService.success(
 							this.getTranslation(successMessageKey),

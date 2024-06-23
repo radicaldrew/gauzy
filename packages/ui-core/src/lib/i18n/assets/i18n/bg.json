@@ -1216,7 +1216,7 @@
 			"DATE_RANGE_PLACEHOLDER": "Choose date between",
 			"HOURLY": "Hourly"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"TITLE": "Интеграция на i4net AI",
 			"API_KEY": "i4net AI ключ",
 			"API_SECRET": "i4net AI Secret",

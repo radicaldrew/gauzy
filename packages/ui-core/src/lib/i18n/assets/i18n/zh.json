@@ -803,7 +803,7 @@
 		"POSITIONS": "职位",
 		"INTEGRATIONS": "应用程序和集成",
 		"UPWORK": "Upwork: 艾普沃克",
-		"i4net_AI": "i4net AI 云知能",
+		"I4NET_AI": "i4net AI 云知能",
 		"PROPOSALS": "提议",
 		"TIME_OFF": "休假",
 		"APPROVALS": "批准",
@@ -1209,7 +1209,7 @@
 			"DATE_RANGE_PLACEHOLDER": "在之间选择日期",
 			"HOURLY": "每小时"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"API_KEY": "i4net AI 密钥",
 			"API_SECRET": "AI秘密"
 		},

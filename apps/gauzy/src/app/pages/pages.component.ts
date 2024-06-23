@@ -344,7 +344,7 @@ export class PagesComponent extends TranslationBaseComponent implements AfterVie
 		const integration$ = this._integrationsService.getIntegrationByOptions({
 			organizationId,
 			tenantId,
-			name: IntegrationEnum.i4net_AI,
+			name: IntegrationEnum.I4NET_AI,
 			relations: ['entitySettings']
 		});
 

@@ -841,7 +841,7 @@
 		"POSITIONS": "Positions",
 		"INTEGRATIONS": "Apps & Integrations",
 		"UPWORK": "Upwork",
-		"i4net_AI": "i4net AI",
+		"I4NET_AI": "i4net AI",
 		"PROPOSALS": "Proposals",
 		"TIME_OFF": "Time Off",
 		"APPROVALS": "Approvals",
@@ -1250,7 +1250,7 @@
 			"HOURLY": "Hourly",
 			"DESCRIPTION": "Activate Upwork integration for freelance workforce management."
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"TITLE": "i4net AI Integration",
 			"API_KEY": "i4net AI key",
 			"API_SECRET": "i4net AI Secret",

@@ -1216,7 +1216,7 @@
 			"DATE_RANGE_PLACEHOLDER": "Выберите дату между",
 			"HOURLY": "Почасовой"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"TITLE": "Интеграция i4net AI",
 			"API_KEY": "Непрозрачный ключ AI",
 			"API_SECRET": "Секрет искусственного интеллекта Гази",

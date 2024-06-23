@@ -803,7 +803,7 @@
 		"POSITIONS": "Positionen",
 		"INTEGRATIONS": "Apps und Integrationen",
 		"UPWORK": "Upwork",
-		"i4net_AI": "i4net AI",
+		"I4NET_AI": "i4net AI",
 		"PROPOSALS": "Vorschläge",
 		"TIME_OFF": "Freizeit",
 		"APPROVALS": "Genehmigungen",
@@ -1209,7 +1209,7 @@
 			"DATE_RANGE_PLACEHOLDER": "Wählen Sie ein Datum zwischen.",
 			"HOURLY": "Stündlich"
 		},
-		"i4net_AI_PAGE": {
+		"I4NET_AI_PAGE": {
 			"API_KEY": "i4net KI",
 			"API_SECRET": "i4net KI Geheimnis"
 		},

@@ -9,7 +9,7 @@ const routes: Routes = [
 		path: '',
 		component: SearchComponent,
 		data: {
-			integration: IntegrationEnum.i4net_AI, // Custom data associated with this route
+			integration: IntegrationEnum.I4NET_AI, // Custom data associated with this route
 			relations: ['integration', 'entitySettings']
 		},
 		resolve: {

@@ -25,7 +25,7 @@ const routes: Routes = [
 				path: '', // Child route for the default page
 				component: i4netAIAuthorizationComponent, // Component for the default page
 				data: {
-					integration: IntegrationEnum.i4net_AI, // Custom data associated with this route
+					integration: IntegrationEnum.I4NET_AI, // Custom data associated with this route
 				},
 				resolve: {
 					integration: IntegrationResolver, // Resolver to fetch data before activating the route
